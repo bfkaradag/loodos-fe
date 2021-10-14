@@ -1,0 +1,60 @@
+{
+  "meetings": [
+    {
+      "guest": 1,
+      "title": "Görüşme",
+      "date": "04-04-2021 15:00",
+      "id": 1
+    },
+    {
+      "guest": 2,
+      "title": "Son İşler",
+      "date": "03-04-2021 16:10",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "QYd6f7eWjflDzlVuK8Jpjw==",
+      "firstName": "Ahmet",
+      "lastName": "Koç",
+      "sessionKey": "Ax34X23qQE"
+    },
+    {
+      "username": "user2",
+      "password": "U2FsdGVkX18ZxvO0/Bjn0xmV9EchzlrgvbrkqTSv2Rg=",
+      "firstName": "Mert",
+      "lastName": "Coşkun",
+      "sessionKey": "CxE1y2D2uE",
+      "id": 2
+    }
+  ],
+  "guests": [
+    {
+      "id": 1,
+      "firstName": "Yeliz",
+      "lastName": "Kara",
+      "email": "yelizkara@g.com"
+    },
+    {
+      "firstName": "Arkın",
+      "lastName": "Sevinç",
+      "email": "arsev@g.com",
+      "id": 2
+    },
+    {
+      "firstName": "Şerife",
+      "lastName": "Akyol",
+      "email": "sakyol@g.com",
+      "id": 3
+    },
+    {
+      "firstName": "Murat",
+      "lastName": "Arkan",
+      "email": "muark@g.com",
+      "id": 4
+    }
+  ]
+}
